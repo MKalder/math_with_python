@@ -67,5 +67,4 @@ $\text{SSR} = \sum (z_{true} - \hat{z})^2$
 
 - **Residuals** measure individual prediction errors.  
 - **Squaring residuals** prevents cancellation and penalizes larger errors more.  
-- **SSR quantifies overall model accuracy**—lower SSR means a better model fit.  
-
+- **SSR quantifies overall model accuracy** lower SSR means a better model fit.
