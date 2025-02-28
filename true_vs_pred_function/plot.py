@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt #type: ignore
 
 def plot_fuction(z_true, z_pred):
     plt.figure(figsize=(8, 5))
